@@ -1,4 +1,4 @@
-# The Sweet Spot v2
+cd # The Sweet Spot v2
 
 Let's improve upon our previous exercise by adding some images. Have a look at the new and improved page [here](https://digitalcareerinstitute.github.io/UIB-content-the-sweet-spot-v2/index.html)
 

@@ -1,0 +1,70 @@
+div .main-header-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+h1 {
+  background-color: deeppink;
+  color: rgb(8, 4, 4);
+}
+
+h2 {
+  background-color: lightgray;
+  color: rgb(63, 4, 61);
+}
+
+#main-topic {
+  background-color: rgb(206, 186, 206);
+}
+
+.subtopic {
+  background-color: yellow;
+  color: black;
+}
+
+.bild {
+  width: 100%;
+}
+
+.bild #lollipop {
+  width: 8%;
+  height: 120px;
+  border-radius: 100%;
+  border-style: solid;
+  border-color: yellow;
+  float: left;
+}
+
+.bild #candy-floss {
+  width: 8%;
+  height: 100px;
+  border-radius: 100%;
+  float: right;
+  border-style: solid;
+  border-color: blue;
+}
+
+.bild #jellybeans {
+  width: 8%;
+  height: 100px;
+  border-radius: 100%;
+  float: left;
+  border-style: solid;
+  border-color: deeppink;
+}
+
+footer {
+  background-color: deepskyblue;
+  width: 100%;
+  height: 80px;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul a {
+  font-size: 20px;
+  color: black;
+}
